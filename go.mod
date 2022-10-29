@@ -1,6 +1,6 @@
 module github.com/youmingsama/wallpaper
 
-go 1.16
+go 1.19
 
 require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
